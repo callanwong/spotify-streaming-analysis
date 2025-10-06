@@ -21,7 +21,7 @@ What audio characteristics distinguish the most successful songs on Spotify in 2
 Spotify Top Songs 2023 (950+ songs) from Kaggle
 
 ## View the Analysis
-[Click here to view the full notebook](spotify_2023_streaming_analysis(1).ipynb)
+[Click here to view the full notebook](Spotify_2023_Streaming_Analysis%20(1).ipynb)
 
 ## About Me
 Data analytics senior with music production background, applying data skills to understand entertainment industry dynamics.
