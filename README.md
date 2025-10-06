@@ -24,4 +24,4 @@ Spotify Top Songs 2023 (950+ songs) from Kaggle
 [Click here to view the full notebook](Spotify_2023_Streaming_Analysis%20(1).ipynb)
 
 ## About Me
-Data analytics senior with music production background, applying data skills to understand entertainment industry dynamics.
+CSUN senior majoring in Business Analytics, minoring in Marketing. Combining data analytics and music production background to explore entertainment industry dynamics.
